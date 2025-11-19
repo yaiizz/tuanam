@@ -151,7 +151,7 @@ yesBtn.addEventListener('click', () => {
         <div class="hearts-container" id="heartsContainerFinal" style="overflow: hidden; position: fixed; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none; z-index: 1;"></div>
         <div style="text-align: center; padding: 40px; max-width: 500px; width: 90%; z-index: 2; position: relative; background: white; border-radius: 20px; border: 8px solid #ff69b4; box-shadow: 0 10px 40px rgba(255, 105, 180, 0.3); margin: 0 auto;" class="celebration-container">
             <h1 style="color: #dc143c; font-size: 2.5rem; margin-bottom: 20px; font-family: 'Comic Sans MS', cursive;">SONUNDA BE</h1>
-            <img src="attached_assets/stock_images/jumping_cat.gif" style="width: 250px; height: auto; border-radius: 15px; margin: 20px auto; display: block; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
+            <img src="jumping_cat.gif" style="width: 250px; height: auto; border-radius: 15px; margin: 20px auto; display: block; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
             <p style="font-size: 1.5rem; color: #ff69b4; font-family: 'Comic Sans MS', cursive; margin-top: 20px;">beni sevdigini biliyodum 💗</p>
         </div>
     `;
