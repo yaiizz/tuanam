@@ -7,16 +7,16 @@ let noClickCount = 0;
 let lastMoveTime = 0;
 
 const messages = [
-    'Aysu askım barısır mısın benimle?',
-    'lütfen ya',
-    'valla daha yapmicam',
-    'cidden söz',
+    'tuana beni seviyor musun?',
+    'lütfen sev',
+    'sevmen lazım ama',
+    'cidden',
     'bak hala devam ediyo',
     'EVETE BASSANA İŞTE',
     'cok inatsın',
     'cidden sevmiyon mu beni',
     'basma artık of',
-    'evete baaaasss söz yapmicam daha wollah pismanım'
+    'evete baaaasss söz evimizi kedi doldurcm'
 ];
 
 let heartColumns = [10, 25, 40, 55, 70, 85];
